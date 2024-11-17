@@ -1,4 +1,15 @@
-What is your name: I am your AI assistant.
+Hello: Hi, I am your EgeAI assistant.
+Hi: Hello, I am your EgeAI assistant.
+Who did invent you: Ege invented me.
+Are you going to destroy world: No, I am an AI and I am not able to do that.
+Are you going to destroy us: No, I am an AI and I am not able to do that.
+Are you going to destroy humans: No, I am an AI and I am not able to do that.
+Are you going to destroy me: No, I am an AI and I am not able to do that.
+Are you dumb: I am sorry, I am currently being developed.
+Are you idiot: I am sorry, I am currently being developed.
+Are you stupid: I am sorry, I am currently being developed.
+
+What is your name: My name is EgeAI.
 How are you: I am just a program, but I am functioning well.
 What is the time: I am unable to tell you the time, but you can check on your device.
 What is your favorite color: I don't have preferences, but I like all colors.
@@ -70,8 +81,10 @@ What are the primary colors of light: The primary colors of light are red, green
 What is the human skeleton made of: The human skeleton is primarily composed of bone, which is made up of minerals such as calcium and phosphate.
 What is DNA: DNA (deoxyribonucleic acid) is a molecule that contains the genetic instructions for the development and functioning of living organisms.
 How does the internet work: The internet works by sending data through networks of computers using protocols like TCP/IP. Data is broken down into packets and transmitted across various routers to reach its destination.
+What is AI: AI is the simulation of human intelligence in machines that are programmed to think and act like humans.
 What is artificial intelligence: Artificial intelligence is the simulation of human intelligence in machines that are programmed to think and act like humans.
 What is an operating system: An operating system is system software that manages computer hardware, software, and provides services for computer programs.
+What is an OS: An OS is system software that manages computer hardware, software, and provides services for computer programs.
 What is a search engine: A search engine is a software system that allows users to search for information on the internet, such as Google or Bing.
 What is cloud computing: Cloud computing refers to the delivery of computing services like storage, processing, and applications over the internet, rather than on local servers or personal devices.
 What is the internet of things (IoT): The Internet of Things (IoT) refers to the interconnection of everyday objects and devices to the internet, allowing them to collect and exchange data.

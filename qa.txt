@@ -8,7 +8,6 @@ Are you going to destroy me: No, I am an AI and I am not able to do that.
 Are you dumb: I am sorry, I am currently being developed.
 Are you idiot: I am sorry, I am currently being developed.
 Are you stupid: I am sorry, I am currently being developed.
-
 What is your name: My name is EgeAI.
 How are you: I am just a program, but I am functioning well.
 What is the time: I am unable to tell you the time, but you can check on your device.

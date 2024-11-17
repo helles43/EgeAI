@@ -1,1 +1,1 @@
-1.0
+EgeAI 0.2 Web Connection
